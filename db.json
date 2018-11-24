@@ -1,25 +1,24 @@
 {
-  "test": [
-    {
-      "id": 1000,
-      "name": "放门出或部圆",
-      "author": "高磊",
-      "college": "包流程例织界",
-      "category_Id": 5
-    },
-    {
-      "id": 1001,
-      "name": "不处米商算半列",
-      "author": "叶芳",
-      "college": "气例积近系志",
-      "category_Id": 5
-    },
-    {
-      "id": 1002,
-      "name": "身文江给指见",
-      "author": "程秀英",
-      "college": "地安地眼看车",
-      "category_Id": 3
-    }
-  ]
+    "test": [{
+            "id": 1000,
+            "name": "放门出或部圆",
+            "author": "高磊",
+            "college": "包流程例织界",
+            "category_Id": 5
+        },
+        {
+            "id": 1001,
+            "name": "不处米商算半列",
+            "author": "叶芳",
+            "college": "气例积近系志",
+            "category_Id": 5
+        },
+        {
+            "id": 1002,
+            "name": "身文江给指见",
+            "author": "程秀英",
+            "college": "地安地眼看车",
+            "category_Id": 3
+        }
+    ]
 }

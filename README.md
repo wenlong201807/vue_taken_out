@@ -25,5 +25,10 @@ npm run test
 npm run lint
 ```
 
+### 启动后台模拟数据命令
+```
+npm run json
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
